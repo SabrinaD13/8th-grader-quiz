@@ -102,6 +102,8 @@ startGame = () => {
     score = 0
     availableQuestions = [...questions]
     getNewQuestion()
+ 
+ return window.location.replace('/game.html')
 }
 
 getNewQuestion = () => {
