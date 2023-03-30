@@ -33,6 +33,7 @@ https://www.washingtontimes.com/quiz/2018/nov/15/are-you-smarter-8th-grader/
 
 
 Deployed site url:
+https://sabrinad13.github.io/8th-grader-quiz/
 
 
 
